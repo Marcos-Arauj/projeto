@@ -4,3 +4,4 @@
 * comando git push
 
 * comando git pull de novo
+* comando git fetch
